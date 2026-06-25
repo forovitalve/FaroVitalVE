@@ -1,0 +1,6 @@
+{
+  "name": "Faro Vital",
+  "description": "Red de Apoyo y Sitios de Acopio en Tiempo Real en Venezuela, impulsado por una coalición de la sociedad civil liderada por Defensores WASH y respaldada por FEDEVE. Consulta puntos de acopio verificados y reporta nuevos centros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import FaroVitalLogo from "./components/FaroVitalLogo";
-import FaqSection from "./components/FaqSection";
-import FedeveFooter from "./components/FedeveFooter";
+import FaroVitalLogo from "./FaroVitalLogo";
+import FaqSection from "./FaqSection";
+import FedeveFooter from "./FedeveFooter";
 import { HelpCircle, ExternalLink, Settings, ShieldCheck, Landmark, Heart, Check, Scale, BookOpen, Eye, Info } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 

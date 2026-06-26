@@ -18,7 +18,7 @@ jobs:
         run: |
           npm install
           npm run build
-      - name: Upload Pages artifact
+      - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: './dist'
